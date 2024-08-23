@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background: url('gif_480_32.gif') no-repeat center center fixed;
+    background-size: cover;
+    padding-top: 10%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+h1{
+    color: white;
+    font-family: futura;
+    text-align: center;
+}
+
+p{
+    color:white;
+    font-family: futura;
+    text-align: left, pjustify;
+}
+
+a{
+    color:white;
+    font-family: futura;
+    text-decoration: underline;
+}
