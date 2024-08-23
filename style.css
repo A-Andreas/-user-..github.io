@@ -3,11 +3,12 @@
 }
 
 body{
-    background: url('gif_480_16.gif') no-repeat center center fixed;
+    background: url('') no-repeat center center fixed;
     background-size: cover;
     padding-top: 10%;
     padding-left: 20%;
     padding-right: 20%;
+    background-color: black;
 }
 
 h1{
