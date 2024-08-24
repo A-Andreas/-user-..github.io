@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    background-size: cover;
+    padding-top: 10%;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 5%;
+}
+
+h1{
+    color: white;
+    font-family: futura;
+    text-align: center;
+}
+
+h2{
+    color: white;
+    font-family: futura;
+    text-align: center;
+}
+
+h4{
+    color: white;
+    font-family: futura;
+    text-align: left;
+}
+
+h5{
+    color: white;
+    font-family: futura;
+    text-align: left;
+}
+
+p{
+    color:white;
+    font-family: futura;
+    text-align: justify;
+    line-height: 200%;
+}
+
+a{
+    color:white;
+    font-family: futura;
+    text-decoration: underline;
+}
